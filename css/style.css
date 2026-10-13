@@ -704,6 +704,8 @@ body.loaded .hero-title .rise{transform:translateY(0)}
   font-family:var(--font-display);font-weight:600;
   font-size:1.14rem;line-height:1.25;padding-right:34px;
 }
+/* judul kartu ekskul: samakan perilaku word-reveal seperti .reveal.in-view */
+.eks-card.in-view .word-reveal{opacity:1;transform:none}
 .eks-cat{
   align-self:flex-start;
   font-size:.66rem;font-weight:800;letter-spacing:.14em;text-transform:uppercase;
