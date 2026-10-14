@@ -233,12 +233,3 @@ terinstal / tidak ada di PATH. Node.js juga tidak tersedia.
 
 ---
 
-## D. Checklist Akhir
-
-- [x] HTML + CSS + JS Native (tanpa framework)
-- [x] Seluruh section wajib ada (7 section)
-- [x] GitHub repo public
-- [x] Deploy live & bisa diakses
-- [x] Catatan rencana website (`README.md`)
-- [x] Catatan prompt & debugging (`CATATAN.md`)
-- [ ] Deploy juga ke Vercel / Server Panitia sesuai permintaan tugas
