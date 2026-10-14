@@ -18,7 +18,7 @@ terpadu di bawah naungan **PPTQ Ibnu Abbas Klaten**, Belangwetan, Klaten Utara, 
 
 | Pengguna | Kebutuhan |
 |---|---|
-| Calon orang tua santri | Info program, biaya tersirat, prestasi, fasilitas |
+| Calon orang tua santri | Info program, prestasi, fasilitas |
 | Santri aktif | Info ekskul & kegiatan |
 | Panitia / sekolah | Media promosi & dokumentasi resmi |
 
