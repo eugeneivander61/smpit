@@ -228,8 +228,8 @@ terinstal / tidak ada di PATH. Node.js juga tidak tersedia.
 | `js/script.js` | Ditulis ulang dengan null checks pada seluruh `getElementById` |
 | `img/galeri/pramuka.jpg` | Versi lightbox 1600 px (315 KB) |
 | `img/galeri/pramuka-sm.jpg` | Thumbnail 900 px (117 KB) |
-| `README.md` | Catatan rencana website (dokumen ini bagian A) |
-| `CATATAN.md` | Catatan prompt & debugging (dokumen ini) |
+| `Catatan Rencana Website.md` | Catatan rencana website (dokumen ini bagian sebelahya) |
+| `Catatan Prompt + Debugging.md` | Catatan prompt & debugging (dokumen ini) |
 
 ---
 
